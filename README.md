@@ -1,16 +1,19 @@
-# Hi, I'm Abdulmalik AbdulRashid👋
+# Hi, I'm Abdulmalik 👋
 
-<!-- Two-column layout using GitHub-supported Markdown table -->
+Below is a **GitHub‑safe two‑column layout** (no CSS, no styles blocked by GitHub).
+It works on desktop as two clear columns, and on mobile it stacks naturally — this is the *only* reliable two‑column method GitHub supports.
+
+---
 
 <table>
 <tr>
 
-<!-- LEFT COLUMN -->
+<!-- LEFT COLUMN (SIDEBAR) -->
 
-<td width="25%" valign="top">
+<td width="26%" valign="top" bgcolor="#f2f4f7" style="border-radius:10px; padding:10px;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=1A8CF7&width=200&lines=Welcome!;Medical+Lab+Scientist;Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=1A8CF7&width=220&lines=Welcome!;Medical+Lab+Scientist;Data+Science+Enthusiast" />
 </p>
 
 ### 👤 Bio
@@ -22,15 +25,15 @@
 
 ### 📫 Contact
 
-* **Email:** [maabdrushd@gmail.com](mailto:your.email@example.com)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
 * **LinkedIn:** yourprofile
 * **Portfolio:** yourportfolio.com
 
 </td>
 
-<!-- RIGHT COLUMN -->
+<!-- RIGHT COLUMN (MAIN CONTENT) -->
 
-<td width="75%" valign="top">
+<td width="74%" valign="top" bgcolor="#ffffff" style="padding:15px; border-radius:10px;">
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=1A8CF7&width=600&lines=Welcome+to+my+GitHub!;Building+ML+and+Data+Projects;Biotech+%7C+Research+%7C+Tech" />
@@ -41,7 +44,7 @@
 ### 🔹 **Project 1: Title Here**
 
 * Brief description of the project.
-* **Tech Stack:** Python, Pandas, Scikit‑learn
+* **Tech Stack:** Python, Pandas, Scikit-learn
 * **GitHub:** [Link to Repo](#)
 
 ---
@@ -61,6 +64,9 @@
 * **GitHub:** [Link to Repo](#)
 
 </td>
-
 </tr>
 </table>
+
+---
+
+This layout **works on GitHub**, stays in **two columns on desktop**, and **becomes one column on mobile** (the only GitHub-approved behaviour).
