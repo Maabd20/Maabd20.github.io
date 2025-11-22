@@ -42,19 +42,20 @@
 - **Tech Stack:** Python, Pandas, Scikit-learn  
 - **GitHub:** https://github.com/Maabd20/Maabd20.github.io/blob/main/Diabetes%20Prediction.ipynb  
 
----
+<hr>
 
 **🔹 Project 2: Title Here**  
 - Brief description of the project.  
 - **Tech Stack:** Streamlit, Machine Learning  
 - **GitHub:** https://github.com/yourusername/project2  
 
----
+<hr>
 
 **🔹 Project 3: Title Here**  
 - Brief description of the project.  
 - **Tech Stack:** SQL, Power BI  
 - **GitHub:** https://github.com/yourusername/project3  
+
 
 </td>
 </tr>
