@@ -16,7 +16,8 @@ It works on desktop as two clear columns, and on mobile it stacks naturally — 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=1A8CF7&width=220&lines=Welcome!;Medical+Lab+Scientist;Data+Science+Enthusiast" />
 </p>
 
-### 👤 Bio
+### <img width="426" height="421" alt="passconvert2" src="https://github.com/user-attachments/assets/a23a4a30-3f8f-4f98-8494-e61d0e2c11a4" />
+ Bio
 
 * 🔬 Medical Laboratory Scientist
 * 🧪 Research & Biotechnology
