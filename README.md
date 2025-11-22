@@ -23,9 +23,9 @@
 
 ### 📫 Contact
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [maabdrushd@gmail.com](mailto:your.email@example.com)
 * **LinkedIn:** yourprofile
-* **Portfolio:** yourportfolio.com
+* **Portfolio:** Maabd20.github.io
 
 </td>
 
