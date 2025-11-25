@@ -22,10 +22,12 @@
 - 🌍 Nigeria  
 
 **Contact**<br>
-- **Email:** [maabdrushd@gmail.com](mailto:maabdrushd@gmail.com)  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **Email:** [maabdrushd@gmail.com](mailto:maabdrushd@gmail.com)
+- <br>
+- **LinkedIn:** https://linkedin.com/in/yourprofile
+- <br>
 - **Portfolio:** https://Maabd20.github.io  
-
+<br>
 </td>
 
 <!-- RIGHT COLUMN (MAIN CONTENT) -->
@@ -37,28 +39,35 @@
 </p>
 
 **🚀 Projects**
-
+<br>
 **🔹 Diabetes Prediction Model**  
 **[diabetes predicting](https://github.com/user-attachments/assets/2bb2dcfc-f583-4d89-8026-adad065b65f7)** 
-- Brief description of the project.  
-- **Tech Stack:** Python, Pandas, Scikit-learn  
+<br>
+- Brief description of the project.
+- <br>  
+- **Tech Stack:** Python, Pandas, Scikit-learn
+  <br>
 - **GitHub:** https://github.com/Maabd20/Maabd20.github.io/blob/main/Diabetes%20Prediction.ipynb  
 
 <hr>
 
-**🔹 Project 2: Title Here**  
-- Brief description of the project.  
-- **Tech Stack:** Streamlit, Machine Learning  
+**🔹 Project 2: Title Here** 
+<br>
+- Brief description of the project.
+  <br>  
+- **Tech Stack:** Streamlit, Machine Learning
+  <br>
 - **GitHub:** https://github.com/yourusername/project2  
 
 <hr>
 
 **🔹 Project 3: Title Here**  
-- Brief description of the project.  
-- **Tech Stack:** SQL, Power BI  
+<br>
+- Brief description of the project.
+  <br>  
+- **Tech Stack:** SQL, Power BI
+  <br>
 - **GitHub:** https://github.com/yourusername/project3  
-
-
 </td>
 </tr>
 </table>
