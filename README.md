@@ -1,4 +1,5 @@
 [GitHub Repository](https://github.com/Maabd20/Maabd20.github.io/# Hello 👋, I'm ABDULMALIK ABDULRASHID
+# Hello 👋, I'm ABDULMALIK ABDULRASHID
 ### Data Scientist/Analyst
 
 I am certified data scientist, Medical laboratory scientist and aspiring biotechnologist
@@ -18,7 +19,10 @@ I am certified data scientist, Medical laboratory scientist and aspiring biotech
 
 ### Diabetes Prediction
 
+
 This model help in predicting diabetes in the future
+
+[View Project](https://github.com/Maabd20/Maabd20.github.io/commit/5c278477a01ca85554d9bb4f19e1fbd5d401af51#diff-8addda74681f1cda89319ec2e9e80a7f3f56c6c5d3c1c05fa819dd0e1e84db52)
 
 ---
 
@@ -29,4 +33,6 @@ This model help in predicting diabetes in the future
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maabd20&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maabd20&theme=default" alt="GitHub Streak" />
+
+
 
