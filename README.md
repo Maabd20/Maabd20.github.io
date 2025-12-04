@@ -1,1 +1,1 @@
-[GitHub Repository](https://github.com/yourusername/Maabd20/Diabetes Prediction.ipynb)
+[GitHub Repository](https://github.com/yourusername/Maabd20/ Diabetes Prediction.ipynb)
