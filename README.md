@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdulmalik Abdulrashid
 
-### 💡 *Medical Laboratory Scientist | Research Enthusiast | Data & Tech Explorer*
+### <img width="205" height="205" alt="passconvert2" src="https://github.com/user-attachments/assets/e92047b6-fc1a-42c1-833e-7391d8362405" />
+ *Medical Laboratory Scientist | Research Enthusiast | Data & Tech Explorer*
 
 Welcome to my GitHub profile! I’m passionate about **medical research**, **biotechnology**, and **data-driven problem-solving**. I enjoy applying computational tools like **Python**, **Power BI**, and **machine learning** to scientific and analytical challenges.
 
@@ -35,7 +36,7 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 
 ## 📂 Featured Projects
 
-### Diabetes Prediction
+### Diabetes Prediction Model
 [Data Set](https://github.com/Maabd20/Maabd20.github.io/commit/5c278477a01ca85554d9bb4f19e1fbd5d401af51#diff-8addda74681f1cda89319ec2e9e80a7f3f56c6c5d3c1c05fa819dd0e1e84db52)
 
 * **Patient-Data-Analysis** — Exploratory data analysis and visualization for clinical datasets.
@@ -47,7 +48,7 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 ## 📫 Contact
 
 * **Email:** [maabdrushd@gmail.com](mailto:maabdrushd@gmail.com)
-* **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [[https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjjGMWoV9SPaSOyQSYCtNMw%3D%3D))
 * **Portfolio:** [https://Maabd20.github.io](https://Maabd20.github.io)
 
 ---
