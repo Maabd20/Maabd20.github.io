@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 
 ## 📂 Featured Projects
 
-### Diabetes Prediction Model
-![diab2](https://github.com/user-attachments/assets/a5e2613b-7951-4a90-86fe-e1c538af3b92) <br>
+* ### Diabetes Prediction Model
+<img src="https://github.com/user-attachments/assets/a5e2613b-7951-4a90-86fe-e1c538af3b92" width="500" height="350" alt="diab2"> <br>
 <small><i>This project focuses on building a machine learning model to predict the likelihood of diabetes using clinical and lifestyle-related data. The model applies data preprocessing, feature engineering, and supervised learning algorithms to identify key factors associated with diabetes risk. By training and evaluating multiple classifiers, the project aims to provide a reliable, data-driven tool that can support early detection and improve clinical decision-making. The repository includes code for data cleaning, exploratory analysis, model training, performance evaluation, and visualization of results.</i></small> <br>
 
 
