@@ -1,1 +1,1 @@
-[GitHub Repository](<https://github.com/yourusername/project2>)
+[GitHub Repository](<Diabetes Prediction.ipynb>)
