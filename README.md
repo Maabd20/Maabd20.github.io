@@ -1,1 +1,1 @@
-[GitHub Repository](Diabetes Prediction.ipynb)
+[GitHub Repository](diabetes predicting.JPG)
