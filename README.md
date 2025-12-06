@@ -40,6 +40,15 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 
 [Burn Out Prediction Model](https://github.com/Maabd20/Maabd20.github.io/commit/87bfcbbae44d07d3cc1d33869c315db02cdb861d#diff-cf503765659a4ec1d2412d4866df0fd381f40079b48ce3164196f0561f83f027)
 
+* ### Fake and Legit News Prediction App <br>
+<img width="550" height="300" alt="burnout-forecasting-Ai" src="https://github.com/user-attachments/assets/b28be9f0-046d-45b8-aee3-04bb80b830cc"/> <br>
+
+   <small><i>This model is about Fake News Detection that uses natural language processing (NLP) and machine learning to classify news articles as either genuine or misleading. The model analyzes linguistic patterns, text structure, and key features to accurately differentiate real news from fake content. This project highlights the role of data science in combating misinformation and improving the reliability of information consumed online.</i></small> <br>
+   
+
+
+
+
 ---
 
 ## 📫 Contact
