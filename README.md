@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulmalik Abdulrashid
 
 ### <img width="205" height="205" alt="passconvert2" src="https://github.com/user-attachments/assets/e92047b6-fc1a-42c1-833e-7391d8362405" />
- *Medical Laboratory Scientist | Research Enthusiast | Data & Tech Explorer*
+ *Medical Laboratory Scientist | Data Scientist & Analylst | Research Enthusiast*
 
 Welcome to my GitHub profile! I’m passionate about **medical research**, **biotechnology**, and **data-driven problem-solving**. I enjoy applying computational tools like **Python**, **Power BI**, and **machine learning** to scientific and analytical challenges.
 
@@ -9,18 +9,16 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 
 ## 🚀 What I Do
 
-* 🔬 Medical Laboratory Science (Chemical Pathology, Diagnostics, Research)
-* 🧬 Interested in Biotechnology & Molecular Biology
-* 🖥️ Data Analysis (Python, Pandas, Power BI)
-* 🤖 Exploring Machine Learning for health & research applications
-* 📊 Dashboarding, Reporting & Insights
+* 🖥️ Building Machine Learning Model
+* * 🤖 Exploring Machine Learning for health & research applications
+* 📊 Analysing Data Dashboarding, Reporting & Insights
 
 ---
 
 ## ⚙️ Tech & Tools
 
 * **Languages:** Python, SQL
-* **Data:** Pandas, NumPy, Scikit-Learn
+* **Data:** Pandas, NumPy, Scikit-Learn etc.
 * **Visualization:** Power BI, Matplotlib
 * **Others:** Git, Jupyter Notebook
 
@@ -46,12 +44,6 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
    <small><i>This model is about Fake News Detection that uses natural language processing (NLP) and machine learning to classify news articles as either genuine or misleading. The model analyzes linguistic patterns, text structure, and key features to accurately differentiate real news from fake content. This project highlights the role of data science in combating misinformation and improving the reliability of information consumed online.</i></small> <br>
    [Real and Fake News Prediction](https://github.com/Maabd20/Maabd20.github.io/commit/87bfcbbae44d07d3cc1d33869c315db02cdb861d#diff-762a2a73b964c49f8fe75967fcb0081358c1688a2c4ac3ee4a80478f5cd82265)
    
-* ### Pension Premium Prediction App <br>
-<img width="550" height="300" alt="burnout-forecasting-Ai" src="https://github.com/user-attachments/assets/b28be9f0-046d-45b8-aee3-04bb80b830cc"/> <br>
-
-   <small><i>This model is about Fake News Detection that uses natural language processing (NLP) and machine learning to classify news articles as either genuine or misleading. The model analyzes linguistic patterns, text structure, and key features to accurately differentiate real news from fake content. This project highlights the role of data science in combating misinformation and improving the reliability of information consumed online.</i></small> <br>
-   [Real and Fake News Prediction](https://github.com/Maabd20/Maabd20.github.io/commit/87bfcbbae44d07d3cc1d33869c315db02cdb861d#diff-762a2a73b964c49f8fe75967fcb0081358c1688a2c4ac3ee4a80478f5cd82265)
-
 
 * ### Pension types predicting model <br>
 <img width="550" height="300" alt="burnout-forecasting-Ai" src="https://github.com/user-attachments/assets/b99909c8-c463-42b9-b043-3799d2b98b29"/> <br>
